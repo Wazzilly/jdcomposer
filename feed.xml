@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>J.D. Newton</title>
+    <link href="https://wazzilly.github.io/jdcomposer/feed.xml" rel="self" />
+    <link href="https://wazzilly.github.io/jdcomposer" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>J.D. Newton</name>
+    </author>
+    <id>https://wazzilly.github.io/jdcomposer</id>
+
+</feed>

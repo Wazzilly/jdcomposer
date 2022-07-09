@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wazzilly.github.io/jdcomposer/sitemap.xml

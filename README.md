@@ -1,2 +1,0 @@
-# jdcomposer
-JD COMPOSER WEBSITE
